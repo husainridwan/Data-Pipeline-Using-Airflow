@@ -30,3 +30,5 @@ An automated ETL pipeline that extracts real estate data from Zillow API, transf
 - Redshift Cluster
 
 ---
+
+### Medium: [Data Pipline with Airflow](https://medium.com/@husainridwan/from-zillow-api-to-redshift-automating-a-data-pipeline-with-airflow-aws-5412355b2467)
