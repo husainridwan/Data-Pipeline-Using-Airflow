@@ -1,4 +1,4 @@
-# 🏡 Zillow Data Pipeline
+# 🏡 Data Pipeline Using Airflow
 
 An automated ETL pipeline that extracts real estate data from Zillow API, transforms it using AWS cloud services, and loads it into Redshift for analysis.
 
